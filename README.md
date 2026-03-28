@@ -8,13 +8,13 @@
 To demonstrate the ability of text-to-video generation tools to reproduce an existing video by crafting precise prompts. The aim of this experiment is to carefully analyze the visual elements of a sunset beach video and create a detailed prompt that helps the AI model generate a video as close as possible to the original. This experiment highlights how prompt engineering plays an important role in controlling the output quality of AI-generated videos.
 
 ## Procedure
-Step 1: Analyze the Given Video
+## Step 1: Analyze the Given Video
 
 The given video represents a beautiful sunset view of a beach. The main subjects observed in the video are the setting sun, ocean waves, sandy beach, and birds flying in the sky. The dominant colors include warm shades of orange, golden yellow, pink, and light blue, which are commonly seen during sunset. The texture of the water appears smooth and natural as the waves gently move toward the shore. The sand appears soft and slightly reflective due to the sunlight.
 
 The lighting in the video is natural and warm, produced by the setting sun near the horizon. The sunlight creates reflections on the water surface, enhancing the overall beauty of the scene. The background environment is an open beach with a clear horizon line where the sky meets the ocean. The composition of the video places the sun near the center or slightly off-center, creating a visually pleasing balance. The overall style of the video is realistic and cinematic, similar to scenes used in nature documentaries.
 
-Step 2: Basic Prompt
+## Step 2: Basic Prompt
 
 The initial prompt describing the video in simple form is:
 
@@ -22,7 +22,7 @@ The initial prompt describing the video in simple form is:
 
 This prompt provides only the main idea of the video without detailed description.
 
-Step 3: Refined Prompt with More Details
+## Step 3: Refined Prompt with More Details
 
 The prompt is improved by adding more specific information about colors, lighting, and environment:
 
@@ -30,11 +30,11 @@ The prompt is improved by adding more specific information about colors, lightin
 
 This refined prompt provides better clarity about the scene and improves the chances of generating a similar video.
 
-Step 4: Identify Style and Artistic Influence
+## Step 4: Identify Style and Artistic Influence
 
 The video follows a realistic cinematic style. The lighting is natural, and the motion of waves appears smooth and visually pleasing. The scene resembles nature-based documentary footage, which focuses on calmness and visual beauty. The prompt therefore includes cinematic and realistic style keywords to guide the AI model.
 
-Step 5: Final Refined Prompt
+## Step 5: Final Refined Prompt
 
 The final prompt used for generating the video is:
 
@@ -42,11 +42,11 @@ The final prompt used for generating the video is:
 
 This prompt includes all important elements such as objects, colors, lighting, motion, and style to achieve accurate video generation.
 
-Step 6: Generate the Video
+## Step 6: Generate the Video
 
 The refined prompt is given as input to text-to-video generation tools such as DALL·E, Stable Diffusion, or MidJourney. The AI model processes the text prompt and generates a video that visually represents the described sunset beach scene.
 
-Step 7: Comparison of Original and Generated Video
+## Step 7: Comparison of Original and Generated Video
 
 After generating the video, the output is compared with the original video. The generated video contains similar elements such as sunset lighting, ocean waves, warm color tones, and peaceful environment. The reflections of sunlight on water and smooth wave motion closely match the original scene. Some minor differences may be observed in the intensity of colors or speed of wave movement, but the overall composition and visual appearance remain similar. The results show that adding more descriptive details in the prompt improves the accuracy of the generated video.
 
